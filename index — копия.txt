@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>МАКЕТ №2</title>
+</head>
+<body>
+    
+    <header>
+        <a href="#">CLOUD FLEX</a>
+        <button><img src="1" alt=" "></button>
+            <nav>
+                <ul>
+                        <li><a href="">about us</a></li>
+                        <li><a href="">CONTACT</a></li>
+                        <li><a href="">COVID-19 UPDATE</a></li>
+                        <li><a href="">en</a></li>
+                </ul>
+                </nav>
+        
+    </header>
+    <main>
+        <h1>Cloud Flex Main page</h1>
+        <section>
+            <p>WHEN PERFORMANCE MATTERS</p>
+            <a href="#">Start development with us!</a>
+            <article>
+                <img src="1" alt="" width="100" height="100">
+                <p>
+                    WE USE COOKIES TO ENSURE YOUR BEST EXPERIENCE. THROUGH YOUR CONTINUED USE OF THIS SITE YOU ACCEPT THIS USE. FOR MORE INFORMATION, PLEASE SEE OUR PRIVACY POLICY.
+                </p>
+                <button>ACCEPT</button>
+                <button>Scroll down</button>
+            </article>
+        </section>
+        <section>
+            <ul>
+                <li>
+                    <img src="1" alt="" width="30" height="30">
+                    <p>Development</p>
+                    <p>Using best practices to make reliable, well-documented and easy to maintain system.</p>
+                </li>
+                <li>
+                    <img src="1" alt="" width="30" height="30">
+                    <p>Analysis</p>
+                    <p>Gathering client's ideas we are happy to help with a technical vision.</p>
+                </li>
+                <li>
+                    <img src="1" alt="" width="30" height="30">
+                    <p>Design</p>
+                    <p>In-depth analysis makes our solutions flexible, scalable and robust.</p>
+                </li>
+                <li>
+                    <img src="1" alt="" width="30" height="30">
+                    <p>Maintenance</p>
+                    <p>Gathering client's ideas we are happy to help with a technical vision.</p>
+                </li>
+                <li>
+                    <img src="1" alt="" width="30" height="30">
+                    <p>Integration</p>
+                    <p>Solutions that go with the times to improve businesses and give customers best experience.</p>
+                </li>
+                <li>
+                    <img src="1" alt="" width="30" height="30">
+                    <p>Testing</p>
+                    <p>Providing best quality of things developed by us for customers</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+                <h2>High Quality</h2>
+                <p>We are the leading firm by delivering quality and value to our clients. All our professionals have huge experience of creating comfortable high-quality software. We like what we do.</p>
+                <img src="1" alt="" width="400" height="400">
+                <h2>Always in touch</h2>
+                <p>We are always ready to answer your questions. You can call us at the weekends and at night. Also you can have a meeting for personal consultation.</p>
+                <img src="1" alt="" width="400" height="400">
+                <h2>Individual Approach</h2>
+                <p>Our company works according to the principle of individual approach to every client. This method lets us to get success in problems of all levels.</p>
+                <img src="1" alt="" width="400" height="400">
+        </section>
+        <section>
+            <h2>Our experience</h2>
+            <ul>
+                <li>
+                    <p>
+                        Serverless Live Streaming
+                    </p>
+                    <img src="1" alt="" width="320" height="212">
+                        <h3></h3>
+                    
+                </li>
+                <li>
+                    <p>
+                        Learn about CloudFlex team cases
+                    </p>
+                    <img src="1" alt="" width="320" height="212">
+                        <h3></h3>
+                    
+                </li>
+                <li>
+                    <p>
+                        Live streaming from mobile
+                    </p>
+                    <img src="1" alt="" width="320" height="212">
+                        <h3></h3>
+                    
+                </li>
+                
+            </ul>
+        </section>
+        <section>
+            <h2>Our EXPERIENCE</h2>
+            <a href=""></a>
+            <p></p>
+                <img src="1" alt="">
+        </section>
+        <section>
+            <h2>Testimonials</h2>
+            <img src="1" alt="">
+            <blockquote>
+                <p>
+                    Очень хороший отзыв, который оставил довольный клиент. А тут я ещё не придумал что написать, поэтому просто добавил это предложение.
+                </p>
+                <button></button>
+                <ol>
+                    <li><button></button></li>
+                    <li><button></button></li>
+                    <li><button></button></li>
+                    <li><button></button></li>
+                    <li><button></button></li>
+                    <li><button></button></li>
+                </ol>
+                <button><img src="1" alt=""></button>
+            </blockquote>
+        </section>
+        <section>
+            <h2>Contact us</h2>
+            <p>Ready to get started? Drop us a line</p>
+            <form>
+                <p><label><input type="text" placeholder="Name"></label></p>
+                <p><label><input type="text" placeholder="Email"></label></p>
+                <p><label><textarea cols="30" rows="10" placeholder="What we can do for you?"></textarea></label></p>
+                <button>Send</button>
+            </form>
+            <a href="#"><img src="1" alt="" width="25" height="25"></a>
+            <a href="#"><img src="1" alt="" width="25" height="25"></a>
+            <a href="#"><img src="1" alt="" width="25" height="25"></a>
+        </section>
+        
+    </main>
+    <footer>
+        <a href="">Terms of Use</a>
+        <a href="">Privacy Policy</a>
+        <p>© CloudFlex 2019. All Rights Reserved.</p>
+    </footer>
+</body>
+
+</html>
