@@ -1,0 +1,229 @@
+:root{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 62.5%;
+    font-weight:400;
+    --background-color:#678FF2;
+    --first-color:#000000;
+    --second-color:#FFFFFF;
+    --group-color:rgba(255, 255, 255, 0.1);
+    --shade-color:rgba(0, 0, 0, 0.1); 
+}
+body{
+    background-color: var(--background-color);
+}
+.cr{
+    
+    font-size: 2rem;
+    color: var(--second-color);
+    line-height: 130%;
+}
+.p{
+    font-size: 4.5rem;
+}
+.cookie{
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.4rem;
+    vertical-align: top;
+    text-align: left;
+    background-color:#678FF2;
+}
+.accept{
+    font-size: 3rem;
+    line-height: 1.4rem;
+    color: var(--first-color);
+    text-align: center;
+    border-style: none;
+    background-color:var(--background-color)
+    
+
+}
+.scroll{
+    font-size: 1.6rem;
+    line-height: 3rem;
+    color: var(--second-color);    
+    border-style: none;
+    background-color:var(--background-color);
+}
+
+.h2{
+    
+    font-size:3.5rem;
+    line-height: 86%;
+    text-align: center;
+    color: var(--second-color);
+}
+
+.li{
+    font-size: 1.4rem;
+    line-height: 3rem;
+}
+.pli{
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
+.h3{
+border-radius: 2rem;
+text-align: center;
+font-size: 2.5rem;
+line-height: 2.5rem;
+
+}
+
+.h21{
+    text-align: left;
+    font-size: 3.5rem;
+    line-height: 1.4rem;
+    color:var(--second-color);
+}
+.h22{
+    text-align: right;
+    font-size: 3.5rem;
+    line-height: 1.4rem;
+    color:var(--second-color);
+}
+.p1{
+    text-align: left;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    color: var(--second-color);
+}
+.p2{
+    text-align: right;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    color: var(--second-color);
+}
+
+.footer{
+    margin-right:5rem;
+    font-size: 1.4rem;
+    line-height: 214%;
+    font-weight: 200;
+}
+
+
+
+h1{
+    font-size: 0;
+}
+
+
+.start{
+    background-color: var(--first-color);
+    color:#FFFFFF;
+    border-radius: 9rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    padding-left:2.6rem ;
+    padding-right:2.6rem ;
+    padding-bottom: 1.2rem;
+    padding-top: 0.9rem;
+}
+
+
+h2{
+    font-weight:700;
+    font-size:4.5rem;
+    line-height: 89%;
+}
+
+h3.hw{
+    font-size: 0;
+}
+
+h3{
+    font-weight:500;
+    font-size:3.5rem;
+    line-height: 140%;
+    color: var(--second-color);
+    text-align: center;
+}
+h4{
+    font-weight:500;
+    font-size:1.4rem;
+    line-height: 214%;
+}
+p.p{
+    font-weight:200;
+    font-size:1.1rem;
+    line-height: 164%;
+}
+
+ul.list{
+    -webkit-column-count: 2;
+    column-count: 2;
+    column-width: auto;
+    text-align: center;
+}
+p.three{
+    font-weight:200;
+    font-size:1.8rem;
+    line-height: 111%;
+    color: var(--second-color);
+}
+p.exp{
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 100%;
+    color: var(--second-color);
+}
+p.otzv{
+    font-weight: 200;
+    font-size: 1.4;
+    line-height: 129%;
+    color: var(--second-color);
+}
+h3.forms{
+    color:var(--first-color);
+    line-height: 114%;
+}
+li.listexp{
+    text-align: center;
+    background-color:var(--group-color);
+    backdrop-filter: blur(20px);
+}
+h3.hq{
+    text-align: left;
+}
+h3.alw{
+    text-align: right;
+}
+a.one{
+    background-color: var(--first-color);
+    color: var(--second-color);
+    font-weight:400;
+    font-size: 2rem;
+    line-height: 150%;
+    text-decoration: none;
+    border-radius: 9rem;
+    padding: 0.5rem;
+}
+button.b1{
+    background-color: var(--first-color);
+    color: var(--second-color);
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 47%;
+    border: none;
+}
+.art{
+    text-align: center;
+    background-color: var(--group-color);
+    border-radius: 2rem;
+}
+li.hw1{
+    background-color: var(--group-color);
+    box-shadow: 0rem 0.4rem 2rem var(--shade-color);
+    color: var(--second-color);
+    width: 14.049rem;
+    height: 15.25rem;
+}
+li.hw2{
+    background-color: var(--group-color);
+    width: 14.049rem;
+    height: 15.25rem;
+}
+form.Fm {
+    text-align: center;
+}
