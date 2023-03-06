@@ -15,9 +15,9 @@ header{
     background-color: var(--group-color);
     padding-left: 3rem;
     padding-right: 3rem;
-    border-bottom: 0.2rem solid var(--second-color);
     display: flex;
     justify-content: space-between;
+    border-bottom: 0.2rem solid var(--second-color);
     align-items: center;
 }
 body{
